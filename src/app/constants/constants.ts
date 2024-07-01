@@ -1,0 +1,2 @@
+
+export const sideBarOptions = [{label:"Dashboard",redirectTo:"/"},{label:"Balance Sheet",redirectTo:"/balancesheet"},{label:"Transactions",redirectTo:"/transactions"},{label:"Inventory",redirectTo:"/manageinventory"}]
